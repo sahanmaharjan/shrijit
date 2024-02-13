@@ -1,0 +1,14 @@
+D:\officeproject\DataServicePack\bin\Debug\net8.0\DataServicePack.exe
+D:\officeproject\DataServicePack\bin\Debug\net8.0\DataServicePack.deps.json
+D:\officeproject\DataServicePack\bin\Debug\net8.0\DataServicePack.runtimeconfig.json
+D:\officeproject\DataServicePack\bin\Debug\net8.0\DataServicePack.dll
+D:\officeproject\DataServicePack\bin\Debug\net8.0\DataServicePack.pdb
+D:\officeproject\DataServicePack\obj\Debug\net8.0\DataServicePack.GeneratedMSBuildEditorConfig.editorconfig
+D:\officeproject\DataServicePack\obj\Debug\net8.0\DataServicePack.AssemblyInfoInputs.cache
+D:\officeproject\DataServicePack\obj\Debug\net8.0\DataServicePack.AssemblyInfo.cs
+D:\officeproject\DataServicePack\obj\Debug\net8.0\DataServicePack.csproj.CoreCompileInputs.cache
+D:\officeproject\DataServicePack\obj\Debug\net8.0\DataServicePack.dll
+D:\officeproject\DataServicePack\obj\Debug\net8.0\refint\DataServicePack.dll
+D:\officeproject\DataServicePack\obj\Debug\net8.0\DataServicePack.pdb
+D:\officeproject\DataServicePack\obj\Debug\net8.0\DataServicePack.genruntimeconfig.cache
+D:\officeproject\DataServicePack\obj\Debug\net8.0\ref\DataServicePack.dll
